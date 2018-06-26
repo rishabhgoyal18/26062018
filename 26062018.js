@@ -1,5 +1,5 @@
 // Declare an array of words 
-let words = ['cat', 'two', 'map', 'trap', 'flew', 'back', 'then', 'went', 'route', 'primed', 'climbed' , 'raghav' , 'rishabh'];
+let words = ['Cat', 'Two', 'Raghav' , 'Rishabh', 'Map', 'Trap', 'Flew', 'Back', 'Then', 'Went', 'Route', 'Primed', 'Climbed'];
 
 
 // Declare Score and Level Variables
